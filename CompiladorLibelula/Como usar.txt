@@ -1,0 +1,9 @@
+Comandos a utilizar en el CMD: 
+ - java -jar LIBELULA.jar CalcInflac.LID
+ - java -jar LIBELULA.jar Feo.LID
+ - java -jar LIBELULA.jar Prueba.txt
+ - java -jar LIBELULA.jar LIBELULATAREA1.LID
+ - java -jar LIBELULA.jar LIBELULATAREA2.LID
+
+Si se desea crear otro archivo para leer, se debe crear un .LID con
+el código por analizar en esta carpeta.

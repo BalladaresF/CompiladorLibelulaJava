@@ -1,0 +1,64 @@
+
+FROM IMPORT
+
+MODULE AAA;
+
+VAR
+Pelos, NombreRepetido : CHAR;
+NombreRepetido : CHAR;
+NombreCorrecto : INTEGER;
+Pelos : INTEGER;
+INTEGER : INTEGER;
+BEGIN : REAL;
+Begin : CHAR;
+and, AND : INTEGER;
+9ABSTRACT(9) , CAP : REAL;
+
+BEGIN
+
+WriteLn;
+writeln;
+WRITELN;
+READ(NombreRepetido);
+if
+IF
+Write(Pelos);
+WriteReal(BEGIN);
+
+
+ReadInt(4AA%);
+
+Begin := (NombreCorrecto);
+Begin := NombreCorrecto);
+Begin :=  NombreCorrecto 
+Begin :=   NombreCorrecto ; 
+Begin := Factor2%
+Begin := #Asus; 
+Begin := ABS((NombreCorrecto)*1.80)
+MaxAnos := INTEGER;
+
+
+IF ( MaxAnos <= 0 ) THEN
+       RETURN;
+END;
+
+IF ( MaxAnos <= 0 ) THEN
+       RETURN;
+END
+
+REPEAT
+      Factor1 := ( Factor1 * 1.07 );
+UNTIL Ano > MaxAnos;
+
+REPEAT
+      Factor1 := ( Factor1 * 1.07 );
+UNTIL 
+
+REPEAT
+      Factor1 := ( Factor1 * 1.07 );
+UNTIL Ano > MaxAnos;
+
+
+END TEXTO;
+
+END AAA.
