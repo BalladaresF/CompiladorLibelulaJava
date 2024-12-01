@@ -1,5 +1,5 @@
 /*
- * 
+ * En estaclase se analiza el archivo. Todos los errores se detectan aquí.
  */
 package Clases;
 
